@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "server": "node server.js",
-    "rotes": "node controlaandoRotas.js",
+    "rotes": "node controlandoRotas.js",
     "npm-test": "node npm-Test.js"
   },
   "author": "",
