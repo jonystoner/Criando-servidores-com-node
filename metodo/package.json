@@ -1,0 +1,14 @@
+{
+  "name": "metodos",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {},
+  "scripts": {
+    "start": "node criandoServidor.js",
+    "rotes": "node fazendoCrud.js"
+  }
+
+
+}
+
+
